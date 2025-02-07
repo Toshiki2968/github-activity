@@ -1,0 +1,15 @@
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\bin\Debug\net8.0\github-activity.exe
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\bin\Debug\net8.0\github-activity.deps.json
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\bin\Debug\net8.0\github-activity.runtimeconfig.json
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\bin\Debug\net8.0\github-activity.dll
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\bin\Debug\net8.0\github-activity.pdb
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.AssemblyInfoInputs.cache
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.AssemblyInfo.cs
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.csproj.CoreCompileInputs.cache
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.sourcelink.json
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.dll
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\refint\github-activity.dll
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.pdb
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\github-activity.genruntimeconfig.cache
+C:\Users\toshiki.sumiya\Desktop\roadmap-project\github-activity\obj\Debug\net8.0\ref\github-activity.dll
